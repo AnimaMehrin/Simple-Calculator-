@@ -11,3 +11,18 @@ This is a basic calculator application built using Java. It supports standard ar
 ## Files
 - **Calculator.java**: Contains the core logic for the calculator operations.
 - **GUI.java**: Implements the graphical user interface and handles user interactions.
+
+## Usage
+- Enter numbers and select an operation using the GUI.
+- Click the equals (`=`) button to compute the result.
+- Use the `C` button to clear the input.
+
+## Example Operations
+- **Addition**: Enter the first number, click `+`, enter the second number, and click `=`.
+- **Subtraction**: Enter the first number, click `-`, enter the second number, and click `=`.
+- **Multiplication**: Enter the first number, click `*`, enter the second number, and click `=`.
+- **Division**: Enter the first number, click `/`, enter the second number, and click `=`.
+- **Factorial**: Enter a number and click `!` to get its factorial.
+- **Power**: Enter the base, click `POW`, enter the exponent, and click `=`.
+- **Square Root**: Enter a number and click `SQRT` to find its square root.
+- **Natural Logarithm**: Enter a number and click `ln` to get its natural logarithm.
